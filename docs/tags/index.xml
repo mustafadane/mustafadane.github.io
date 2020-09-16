@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Mustafa Dane</title>
+    <link>https://mustafadane.com/tags/</link>
+    <description>Recent content in Tags on Mustafa Dane</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Sep 2020 12:42:05 -0500</lastBuildDate><atom:link href="https://mustafadane.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS</title>
+      <link>https://mustafadane.com/tags/aws/</link>
+      <pubDate>Tue, 15 Sep 2020 12:42:05 -0500</pubDate>
+      
+      <guid>https://mustafadane.com/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Firebase</title>
+      <link>https://mustafadane.com/tags/firebase/</link>
+      <pubDate>Tue, 15 Sep 2020 12:42:05 -0500</pubDate>
+      
+      <guid>https://mustafadane.com/tags/firebase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Cloud Vision API</title>
+      <link>https://mustafadane.com/tags/google-cloud-vision-api/</link>
+      <pubDate>Tue, 15 Sep 2020 12:42:05 -0500</pubDate>
+      
+      <guid>https://mustafadane.com/tags/google-cloud-vision-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>React Native</title>
+      <link>https://mustafadane.com/tags/react-native/</link>
+      <pubDate>Tue, 15 Sep 2020 12:42:05 -0500</pubDate>
+      
+      <guid>https://mustafadane.com/tags/react-native/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Express</title>
+      <link>https://mustafadane.com/tags/express/</link>
+      <pubDate>Tue, 15 Sep 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://mustafadane.com/tags/express/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facebook Graph API</title>
+      <link>https://mustafadane.com/tags/facebook-graph-api/</link>
+      <pubDate>Tue, 15 Sep 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://mustafadane.com/tags/facebook-graph-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facebook Oauth Login</title>
+      <link>https://mustafadane.com/tags/facebook-oauth-login/</link>
+      <pubDate>Tue, 15 Sep 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://mustafadane.com/tags/facebook-oauth-login/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Node.js</title>
+      <link>https://mustafadane.com/tags/node.js/</link>
+      <pubDate>Tue, 15 Sep 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://mustafadane.com/tags/node.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passport</title>
+      <link>https://mustafadane.com/tags/passport/</link>
+      <pubDate>Tue, 15 Sep 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://mustafadane.com/tags/passport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PostgreSQL</title>
+      <link>https://mustafadane.com/tags/postgresql/</link>
+      <pubDate>Tue, 15 Sep 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://mustafadane.com/tags/postgresql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>React</title>
+      <link>https://mustafadane.com/tags/react/</link>
+      <pubDate>Tue, 15 Sep 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://mustafadane.com/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequelize</title>
+      <link>https://mustafadane.com/tags/sequelize/</link>
+      <pubDate>Tue, 15 Sep 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://mustafadane.com/tags/sequelize/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spotify Android SDK</title>
+      <link>https://mustafadane.com/tags/spotify-android-sdk/</link>
+      <pubDate>Tue, 15 Sep 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://mustafadane.com/tags/spotify-android-sdk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TypeScript</title>
+      <link>https://mustafadane.com/tags/typescript/</link>
+      <pubDate>Tue, 15 Sep 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://mustafadane.com/tags/typescript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webpack</title>
+      <link>https://mustafadane.com/tags/webpack/</link>
+      <pubDate>Tue, 15 Sep 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://mustafadane.com/tags/webpack/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
