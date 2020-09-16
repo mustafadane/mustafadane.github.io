@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TypeScript on Mustafa Dane</title>
+    <link>https://mustafadane.github.io/tags/typescript/</link>
+    <description>Recent content in TypeScript on Mustafa Dane</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Sep 2020 12:41:05 -0500</lastBuildDate><atom:link href="https://mustafadane.github.io/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Student Playbook</title>
+      <link>https://mustafadane.github.io/projects/creations/playbook/</link>
+      <pubDate>Tue, 15 Sep 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://mustafadane.github.io/projects/creations/playbook/</guid>
+      <description>This is a project to be used internally at Fullstack Academy of Code. Main purpose is to create projects and tasks for incoming students in Asana and edit all of them at once. PostgreSQL database is used to keep the tasks and projects data. Node/Express server is used to communicate with database and Asana API. React and Blueprint.js are used in the front-end. Whole project is written in TypeScript!
+ Worked with other software developers and supervised by campus director, Ben Neiswander.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Facebook Graph API on Mustafa Dane</title>
+    <link>https://mustafadane.github.io/tags/facebook-graph-api/</link>
+    <description>Recent content in Facebook Graph API on Mustafa Dane</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Sep 2020 12:41:05 -0500</lastBuildDate><atom:link href="https://mustafadane.github.io/tags/facebook-graph-api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Facebook 10 Year Challenge Generator</title>
+      <link>https://mustafadane.github.io/projects/creations/10year/</link>
+      <pubDate>Tue, 15 Sep 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://mustafadane.github.io/projects/creations/10year/</guid>
+      <description>This is a web application to create 10-year-challenge photo from your photos at Facebook. User logs in with facebook and app brings a random photo from around 10 years ago and now. Then, puts them together!</description>
+    </item>
+    
+  </channel>
+</rss>

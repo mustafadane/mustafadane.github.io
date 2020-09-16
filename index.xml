@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Mustafa Dane</title>
+    <link>https://mustafadane.github.io/</link>
+    <description>Recent content in Home on Mustafa Dane</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Sep 2020 18:56:13 -0500</lastBuildDate><atom:link href="https://mustafadane.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SPL/IT</title>
+      <link>https://mustafadane.github.io/projects/creations/split/</link>
+      <pubDate>Tue, 15 Sep 2020 12:42:05 -0500</pubDate>
+      
+      <guid>https://mustafadane.github.io/projects/creations/split/</guid>
+      <description>$PL/IT is a mobile tab splitting app for friends who go out to eat but have different spending habits. iOS and Android users can upload photos of their receipts and claim ownership of each item in that receipt. Once the event is closed, each user is shown how much they should pay or charge other users in the event.
+Development This was built using Google&amp;rsquo;s Cloud Vision API with a front end in React Native and a back-end in Firebase.</description>
+    </item>
+    
+    <item>
+      <title>Adaptify: Adaptive Playlist Experience</title>
+      <link>https://mustafadane.github.io/projects/creations/adaptify/</link>
+      <pubDate>Tue, 15 Sep 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://mustafadane.github.io/projects/creations/adaptify/</guid>
+      <description>Have you ever had a song in your playlist that you keep skipping? Then, use Adaptify to have an adaptive playlist. Any song that are skipped 3 times will be deleted from your playlist!
+ Utilized: Spotify Android SDK and API, React Native, Heroku deployed server with Node.js and Express.  Watch a presentation here</description>
+    </item>
+    
+    <item>
+      <title>Facebook 10 Year Challenge Generator</title>
+      <link>https://mustafadane.github.io/projects/creations/10year/</link>
+      <pubDate>Tue, 15 Sep 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://mustafadane.github.io/projects/creations/10year/</guid>
+      <description>This is a web application to create 10-year-challenge photo from your photos at Facebook. User logs in with facebook and app brings a random photo from around 10 years ago and now. Then, puts them together!</description>
+    </item>
+    
+    <item>
+      <title>Student Playbook</title>
+      <link>https://mustafadane.github.io/projects/creations/playbook/</link>
+      <pubDate>Tue, 15 Sep 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://mustafadane.github.io/projects/creations/playbook/</guid>
+      <description>This is a project to be used internally at Fullstack Academy of Code. Main purpose is to create projects and tasks for incoming students in Asana and edit all of them at once. PostgreSQL database is used to keep the tasks and projects data. Node/Express server is used to communicate with database and Asana API. React and Blueprint.js are used in the front-end. Whole project is written in TypeScript!
+ Worked with other software developers and supervised by campus director, Ben Neiswander.</description>
+    </item>
+    
+    <item>
+      <title>Yesternow</title>
+      <link>https://mustafadane.github.io/projects/creations/yesternow/</link>
+      <pubDate>Tue, 15 Sep 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://mustafadane.github.io/projects/creations/yesternow/</guid>
+      <description> Full e-commerce experience for guest and logged in users and with admin dashboard. Utilized: Node.js, Express, PostgreSQL, Sequelize, Passport, OAuth, Webpack, Babel, Mocha, Chai, Enzyme, React, Redux, Semantic UI, HTML, CSS. Done in a group of 4 students in an agile work environment.  Preview </description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>https://mustafadane.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mustafadane.github.io/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml
+[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+  </channel>
+</rss>

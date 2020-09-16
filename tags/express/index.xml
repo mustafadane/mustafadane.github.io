@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Express on Mustafa Dane</title>
+    <link>https://mustafadane.github.io/tags/express/</link>
+    <description>Recent content in Express on Mustafa Dane</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Sep 2020 12:41:05 -0500</lastBuildDate><atom:link href="https://mustafadane.github.io/tags/express/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adaptify: Adaptive Playlist Experience</title>
+      <link>https://mustafadane.github.io/projects/creations/adaptify/</link>
+      <pubDate>Tue, 15 Sep 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://mustafadane.github.io/projects/creations/adaptify/</guid>
+      <description>Have you ever had a song in your playlist that you keep skipping? Then, use Adaptify to have an adaptive playlist. Any song that are skipped 3 times will be deleted from your playlist!
+ Utilized: Spotify Android SDK and API, React Native, Heroku deployed server with Node.js and Express.  Watch a presentation here</description>
+    </item>
+    
+    <item>
+      <title>Facebook 10 Year Challenge Generator</title>
+      <link>https://mustafadane.github.io/projects/creations/10year/</link>
+      <pubDate>Tue, 15 Sep 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://mustafadane.github.io/projects/creations/10year/</guid>
+      <description>This is a web application to create 10-year-challenge photo from your photos at Facebook. User logs in with facebook and app brings a random photo from around 10 years ago and now. Then, puts them together!</description>
+    </item>
+    
+    <item>
+      <title>Student Playbook</title>
+      <link>https://mustafadane.github.io/projects/creations/playbook/</link>
+      <pubDate>Tue, 15 Sep 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://mustafadane.github.io/projects/creations/playbook/</guid>
+      <description>This is a project to be used internally at Fullstack Academy of Code. Main purpose is to create projects and tasks for incoming students in Asana and edit all of them at once. PostgreSQL database is used to keep the tasks and projects data. Node/Express server is used to communicate with database and Asana API. React and Blueprint.js are used in the front-end. Whole project is written in TypeScript!
+ Worked with other software developers and supervised by campus director, Ben Neiswander.</description>
+    </item>
+    
+    <item>
+      <title>Yesternow</title>
+      <link>https://mustafadane.github.io/projects/creations/yesternow/</link>
+      <pubDate>Tue, 15 Sep 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://mustafadane.github.io/projects/creations/yesternow/</guid>
+      <description> Full e-commerce experience for guest and logged in users and with admin dashboard. Utilized: Node.js, Express, PostgreSQL, Sequelize, Passport, OAuth, Webpack, Babel, Mocha, Chai, Enzyme, React, Redux, Semantic UI, HTML, CSS. Done in a group of 4 students in an agile work environment.  Preview </description>
+    </item>
+    
+  </channel>
+</rss>
